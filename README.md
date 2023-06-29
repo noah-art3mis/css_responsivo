@@ -1,5 +1,5 @@
-# curso_ebac_frontend
-## https://css-responsivo-self.vercel.app/
+# EBAC Thoughts
+https://css-responsivo-self.vercel.app/
 como uma loja de sapatos, mas de pensamentos.  
 pensamentos em estoque:  
 - Realismo Intuitivo
