@@ -18,4 +18,3 @@ pensamentos em estoque:
 - [itch.oi](https://github.com/noah-art3mis/ebac_games_shop)
 - [arcos-bootstrap](https://github.com/noah-art3mis/bootstrap)
 - [Cartório da EBAC](https://github.com/noah-art3mis/EBAC)
-- 
